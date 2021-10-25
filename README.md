@@ -48,12 +48,12 @@ Enable the colorscheme:
 
 ```vim
 " Vim Script
-colorscheme tokyonight
+colorscheme darkplus
 ```
 
 ```lua
 -- Lua
-vim.cmd[[colorscheme tokyonight]]
+vim.cmd[[colorscheme darkplus]]
 ```
 
 ## 🔥 Contributing
